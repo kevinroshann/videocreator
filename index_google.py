@@ -17,7 +17,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 import os
 padding = 50 
-GOOGLE_API_KEY = 'AIzaSyB0_wgK506dJ4lCOe-ppjuj99EbrK98q_Q'
+GOOGLE_API_KEY = 'api google'
 
 def list_files_in_folder(folder_path):
     file_names = []
